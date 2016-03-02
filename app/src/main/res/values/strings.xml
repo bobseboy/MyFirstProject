@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+    <string name="Button1">This is button #1</string>
+    <string name="Button2">This is button #2</string>
+</resources>
